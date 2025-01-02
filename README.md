@@ -1,4 +1,4 @@
-# Pocillo-icon-theme-Snap
+# pocillo-icon-theme-snap
 
 Unfortunately, you still need to use this command to theme installed Snap apps.
 And reuse them when installing new Snap apps.
